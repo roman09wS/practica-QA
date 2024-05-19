@@ -1,0 +1,16 @@
+{
+  "name": "practicaqa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "practica.js",
+  "scripts": {
+    "start": "practica.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
